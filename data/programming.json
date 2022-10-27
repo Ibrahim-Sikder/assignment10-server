@@ -1,0 +1,506 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Procedural languages",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-e1624308433688.jpg?fit=2309%2C1154&strip=all",
+      "image_url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-e1624308433688.jpg?fit=2309%2C1154&strip=all",
+      "details": "Procedural languages are based on the data viewing range of a code statement. Examples include Ada, BASIC, C/C++ and JavaScript."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Functional languages",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://media.gcflearnfree.org/content/5e31ca08bc7eff08e4063776_01_29_2020/ProgrammingIllustration.png",
+      "image_url": "https://media.gcflearnfree.org/content/5e31ca08bc7eff08e4063776_01_29_2020/ProgrammingIllustration.png",
+      "details": "Functional languages use stored data to perform recursive functions, which execute a process and then repeat it to solve any errors that arise during programming. Examples include Agda, Cuneiform, PureScript and APL."
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "Machine languages",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://miro.medium.com/max/1024/1*Q_YyCxO4v98wsEaIejVA4w.png",
+      "image_url": "https://miro.medium.com/max/1024/1*Q_YyCxO4v98wsEaIejVA4w.png",
+      "details": "Machine languages are made up of binary code, which is a series 0s and 1s that symbolize text or instructions for a computer program. One example of a machine language is Fortran."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "Assembly languages",
+      "author": {
+        "name": "Jennifer Change Korchi",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://www.mycplus.com/mycplus/wp-content/uploads/2009/02/programming-languages.jpg",
+      "image_url": "https://www.mycplus.com/mycplus/wp-content/uploads/2009/02/programming-languages.jpg",
+      "details": "Assembly languages work in a similar way to machine languages by using short mnemonic codes to give the computer instructions. Examples include Lotus 1-2-3 and Turbo Pascal."
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "Logic programming languages",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://www.appstudio.ca/blog/wp-content/uploads/2021/01/Which-programming-language-is-in-demand-in-Canada.jpg",
+      "image_url": "https://www.appstudio.ca/blog/wp-content/uploads/2021/01/Which-programming-language-is-in-demand-in-Canada.jpg",
+      "details": "Logic programming languages add restrictions to statements made by developers that cause the computer to consider the possible outcomes of different actions. Examples include Prolog, ASP and Datalog."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "Data-oriented languages",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://spectrum.ieee.org/media-library/an-illustration-with-people-typing-on-laptop-surrounded-by-floating-windows.jpg?id=31173894&width=1200&height=600&coordinates=0%2C375%2C0%2C375",
+      "image_url": "https://spectrum.ieee.org/media-library/an-illustration-with-people-typing-on-laptop-surrounded-by-floating-windows.jpg?id=31173894&width=1200&height=600&coordinates=0%2C375%2C0%2C375",
+      "details": "Data-oriented languages offer different ways to search and edit entity-relationship tables. Examples include Clarion, Gremlin, WebDNA and Wolfram Language."
+    },
+
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": null,
+      "title": "Business-oriented languages",
+      "author": {
+        "name": null,
+        "published_date": "2022-08-30 15:00:04",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://gumisolutions.com/wp-content/uploads/2022/04/programming-language-for-sql-developer-and-dba.png",
+      "image_url": "https://gumisolutions.com/wp-content/uploads/2022/04/programming-language-for-sql-developer-and-dba.png",
+      "details": "Companies use business-oriented languages to work with large quantities of data across a variety of different systems. Examples include SQL and COBOL."
+    },
+
+    {
+      "_id": "a713ee936ff5574273f0f769f5c5b20e",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 111,
+      "title": "Education-oriented languages",
+      "author": {
+        "name": "system",
+        "published_date": null,
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://cdn.shortpixel.ai/spai/q_lossy+w_998+to_webp+ret_img/https://www.onlc.com/blog/wp-content/uploads/2017/07/ONLC-2017-4-637x350.png",
+      "image_url": "https://cdn.shortpixel.ai/spai/q_lossy+w_998+to_webp+ret_img/https://www.onlc.com/blog/wp-content/uploads/2017/07/ONLC-2017-4-637x350.png",
+      "details": "Education-oriented languages can help to teach computer programming and coding to novices who are unfamiliar with the processes. Examples include BASIC, Logo and HyperTalk."
+    },
+
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+      "others_info": {
+        "is_todays_pick": true,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "Object-oriented languages",
+      "author": {
+        "name": "Theo Minh Châu",
+        "published_date": "2022-08-25 06:03:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "http://gogotraining.com/blog/wp-content/uploads/2016/10/Become-a-Computer-Programmer.jpg",
+      "image_url": "http://gogotraining.com/blog/wp-content/uploads/2016/10/Become-a-Computer-Programmer.jpg",
+      "details": "Object-oriented language identifies everything it encounters as objects that have internal and external data and then it performs based on moving these objects to where they need to be. Examples include Java, Visual Basic .NET, Ruby and Python."
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "Scripting languages",
+      "author": {
+        "name": "Theo Minh Châu",
+        "published_date": "2022-08-25 06:03:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "http://www.alltechflix.com/wp-content/uploads/2019/11/computer-programmer.jpg",
+      "image_url": "http://www.alltechflix.com/wp-content/uploads/2019/11/computer-programmer.jpg",
+      "details": "Scripting languages solve smaller programming issues and can be used to write operating system utilities. Examples include Perl, PHP, JavaScript and Python."
+    },
+
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a3",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "Declarative languages",
+      "author": {
+        "name": "Ukrainska Pravda",
+        "published_date": "2022-08-25 18:53:49",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://cleancommit.io/static/09309f64fd133fd394072eb607281ec3/2933e/website-programmer-resized.jpg",
+      "image_url": "https://cleancommit.io/static/09309f64fd133fd394072eb607281ec3/2933e/website-programmer-resized.jpg",
+      "details": "Declarative languages tell a computer what needs to be done without including instructions for how to complete the task. This type of language can be classified as a logic programming or functional language, as they all help a computer to solve problems in programming. Examples include Prolog, Lisp, ML and Haskell."
+    },
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a4",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "Document formatting languages",
+      "author": {
+        "name": "Ukrainska Pravda",
+        "published_date": "2022-08-25 18:53:49",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://foundersguide.com/wp-content/uploads/2020/11/programming-1.jpg",
+      "image_url": "https://foundersguide.com/wp-content/uploads/2020/11/programming-1.jpg",
+      "details": "Document formatting languages organize printed text and graphics, and some function similarly to a word processor. Examples include TeX, PostScript and SGML."
+    },
+
+    {
+      "_id": "cd2b53655737cc4077542baea9f8f75d",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 700,
+      "title": "World Wide Web display languages",
+      "author": {
+        "name": "Daniel Deangelo",
+        "published_date": "2022-08-30 20:02:52",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg",
+      "image_url": "https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg",
+      "details": "World Wide Web display languages are used to design web pages and provide them with the desired functions, such as page retrieval through links. Examples include HTML, XML and CGI."
+    },
+    {
+      "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "07",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 300,
+      "title": "Front end coding languages",
+      "author": {
+        "name": "",
+        "published_date": "2022-08-24 22:30:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://cdn5.vectorstock.com/i/1000x1000/79/94/programmer-working-program-or-web-developer-vector-35947994.jpg",
+      "image_url": "https://cdn5.vectorstock.com/i/1000x1000/79/94/programmer-working-program-or-web-developer-vector-35947994.jpg",
+      "details": "Front end development languages are used to code the visual aspects of websites, games, software and apps. Examples include HTML, CSS and JavaScript."
+    },
+    {
+      "_id": "7c4dfea0fafddc813673282a428429b7",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 0,
+      "title": "Database programming languages",
+      "author": {
+        "name": "Reuters",
+        "published_date": "2022-08-25 03:09:16",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://res.cloudinary.com/dyd911kmh/image/upload/v1646560927/shutterstock_1329434768_bf9003ea47.jpg",
+      "image_url": "https://res.cloudinary.com/dyd911kmh/image/upload/v1646560927/shutterstock_1329434768_bf9003ea47.jpg",
+      "details": "Database programming languages help to create databases and manipulate the way data is stored inside them. Examples include C++, COBOL, Java and Perl."
+    },
+    {
+      "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 320,
+      "title": "Rule-based languages",
+      "author": {
+        "name": "John Pike",
+        "published_date": "2022-08-25 07:35:11",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://contentstatic.techgig.com/thumb/msid-79386213,width-460,resizemode-4/5-Myths-around-Python-programming-language-that-every-programmer-must-know.jpg?88712",
+      "image_url": "https://contentstatic.techgig.com/thumb/msid-79386213,width-460,resizemode-4/5-Myths-around-Python-programming-language-that-every-programmer-must-know.jpg?88712",
+      "details": "Rule-based languages implement rules once they are activated by certain conditions in a data set. Examples include AWK, CLIPS, Prolog and Wolfram Language"
+    },
+    {
+      "_id": "df11ff9feefc37613cc3a4486ce02151",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 552,
+      "title": "Compiled languages",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-27 05:38:02",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://s3-us-east-2.amazonaws.com/maryville/wp-content/uploads/2019/06/18172004/research-scientists-study-holographic-analytics-1-2-500x280.jpg",
+      "image_url": "https://s3-us-east-2.amazonaws.com/maryville/wp-content/uploads/2019/06/18172004/research-scientists-study-holographic-analytics-1-2-500x280.jpg",
+      "details": "Compiled languages have been translated by computer programs from one programming language to another and convert information directly to code, which streamlines the programming process. Examples include ActionScript, Ballerina, C++ and ALGOL."
+    },
+    {
+      "_id": "919db97c34e0778b387dd40cdfa08130",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 89,
+      "title": "Back end coding languages",
+      "author": {
+        "name": "MarketScreener",
+        "published_date": "2022-08-30 18:05:42",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://imageio.forbes.com/specials-images/imageserve/5e5646e1d2111200062ef3aa/0x0.jpg?format=jpg&width=1200",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/5e5646e1d2111200062ef3aa/0x0.jpg?format=jpg&width=1200",
+      "details": "Back end coding languages code program servers so that web pages appear and function correctly. Examples include Python, Java and Ruby."
+    },
+    {
+      "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 798,
+      "title": "System languages",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-25 18:45:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://industrywired.b-cdn.net/wp-content/uploads/2020/07/Emerging-Technology.jpg",
+      "image_url": "https://industrywired.b-cdn.net/wp-content/uploads/2020/07/Emerging-Technology.jpg",
+      "details": "System languages can complete tasks like memory management or task management when programming an entire system. Examples include Swift, Rust, C++ and Nim."
+    },
+    {
+      "_id": "acb9b6785b62698fc6130db7615965e1",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 879,
+      "title": "Algorithmic languages",
+      "author": {
+        "name": "RTTNews",
+        "published_date": "2022-08-25 11:53:13",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://images.techopedia.com/images/uploads/programming-languages.jpg",
+      "image_url": "https://images.techopedia.com/images/uploads/programming-languages.jpg",
+      "details": "Algorithmic languages convey mathematical or symbolic computations and can use algebraic operations to convey information. Examples include Fortran, ALGOL, Lisp and C."
+    },
+    {
+      "_id": "be44c843d61859cc0b87cae85c55f9db",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 231,
+      "title": "Command-line interface languages",
+      "author": {
+        "name": "Kumar Natasha",
+        "published_date": "2022-08-26 12:15:36",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://www.totaltek.com/wp-content/uploads/2022/01/Computer-Programming-Languages.jpg",
+      "image_url": "https://www.totaltek.com/wp-content/uploads/2022/01/Computer-Programming-Languages.jpg",
+      "details": "Command-line interface languages use lines of text to send commands to computer programs. Examples include Batch, CLIST, TACL and 4DOS."
+    },
+    {
+      "_id": "1b03149c50f1bec662062d930bf46489",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 546,
+      "title": "Computational languages",
+      "author": {
+        "name": "The Philadelphia Inquirer",
+        "published_date": "2022-08-30 22:00:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://images.idgesg.net/images/article/2019/11/jw_lambda_expressions_lambda_symbol_circuits_puzzle_pieces_by_greyfebruary_gettyimages-511803821_2400x1600-100817056-large.jpg?auto=webp&quality=85,70",
+      "image_url": "https://images.idgesg.net/images/article/2019/11/jw_lambda_expressions_lambda_symbol_circuits_puzzle_pieces_by_greyfebruary_gettyimages-511803821_2400x1600-100817056-large.jpg?auto=webp&quality=85,70",
+      "details": "Computational languages declaratively communicate the logic and functions of a computer command. Examples include Wolfram Language, Gremlin, QML and Mercury."
+    },
+    {
+      "_id": "7f5b80c1cdd4df0111918883eae07349",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 1870,
+      "title": "Visual languages",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://www.thoughtco.com/thmb/aS6zMjpwJyEsyMUBRLAq7cNkENE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/warning--data-transfer-in-progress-507065943-59c6d2a70d327a001141794d-5bb792f246e0fb0051a88f9c.jpg",
+      "image_url": "https://www.thoughtco.com/thmb/aS6zMjpwJyEsyMUBRLAq7cNkENE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/warning--data-transfer-in-progress-507065943-59c6d2a70d327a001141794d-5bb792f246e0fb0051a88f9c.jpg",
+      "published_date": "2022-08-24 18:00:00",
+      "details": "Visual languages specify programs in two-dimensional ways through different types of graphic layouts. Examples include Grasshopper, GameMaker Language, XOD and ToonTalk."
+    },
+    {
+      "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "07",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_view": 354,
+      "title": "XML-based languages",
+      "author": {
+        "name": "Presstv",
+        "published_date": "2022-08-30 17:44:16",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://www.designyourway.net/blog/wp-content/uploads/2018/12/Information-technology-big-data-collection-complex-700x438.jpg",
+      "image_url": "https://www.designyourway.net/blog/wp-content/uploads/2018/12/Information-technology-big-data-collection-complex-700x438.jpg",
+      "details": "XML, or Extensible Markup Language, encodes documents in a way that can be read and understood by both people and computers and exists across the internet. Examples include Apache Ant, MXML, ECMAScript for XML and XQuery."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "Syntax handling languages",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-26 00:37:24",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://wallpaperaccess.com/full/1650896.jpg",
+      "image_url": "https://wallpaperaccess.com/full/1650896.jpg",
+      "details": "Syntax handling languages generate analyzers that convert character sequences to token sequences that have specified meanings for context-free grammar. Examples include ANTLR, lex, Prolog and JavaCC."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "Interpreted languages",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-26 00:37:24",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://www.magictouchnet.com/wp-content/uploads/2019/01/factors-to-consider-when-selecting-a-programming-language.jpg",
+      "image_url": "https://www.magictouchnet.com/wp-content/uploads/2019/01/factors-to-consider-when-selecting-a-programming-language.jpg",
+      "details": "Interpreted languages enable programs to be executed from source code with the help of an interpreter, rather than being compiled. Examples include Apache Ant, JavaScript, PostScript and Windows PowerShell."
+    }
+  ]
