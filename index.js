@@ -25,16 +25,7 @@ app.get('/programming/:id', (req, res) => {
     res.send(programmingLanguage)
 })
 
-app.get('/category/:id', (req, res) => {
-    const id = req.params.id;
-    if( id === '08'){
-        res.send(programming)
-    }
-    else{
-        const category_language = programming.filter( prog => prog.category_id === id )
-        res.send(category_language)
-    }
-})
+
 
 app.get('/', (req, res) => {
     res.send('server is running now')
